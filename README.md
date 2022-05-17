@@ -48,4 +48,4 @@ int main(void)
 }
 
 # Authors: 
-Yeabsira Tilahun and Kaleab Samuel
+Amha Endrayes and Solomon K.

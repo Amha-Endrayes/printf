@@ -1,6 +1,7 @@
 # printf
 # Description
-In C programming language, printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
+_printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
+(similar to the standard printf() function in C)
 
 The available convertion specifiers are:
 
